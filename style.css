@@ -1,0 +1,7 @@
+p{color:#f4425c;font-size:30px;}
+.start{color:purple;}
+.astana{color:pink;}
+#like{color:blue;}
+p:hover{color:blue;font-size:50px}
+img:hover{width:50%;}
+p::first-letter{color:blue;font-size:50px;}
